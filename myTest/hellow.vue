@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-14 22:58:55
- * @LastEditTime: 2020-12-19 23:45:49
+ * @LastEditTime: 2020-12-26 01:17:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \my-test\hellow.vue
@@ -30,9 +30,6 @@
             name() {
                 return this.data 
             }
-        },
-        created() {
-            
         }
     }
 </script>
