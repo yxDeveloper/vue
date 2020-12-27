@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-26 23:50:14
- * @LastEditTime: 2020-12-26 23:50:42
+ * @LastEditTime: 2020-12-27 23:55:04
  * @LastEditors: Please set LastEditors
  * @Description: the test vue file
  * @FilePath: \vue\myTest\test.vue
@@ -13,8 +13,12 @@
 </template>
 
 <script>
-    export default {
+    import vue from "./vue.js"
+    new Vue({
         
+    })
+    export default {
+
     }
 </script>
 
