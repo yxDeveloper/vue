@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-26 23:50:14
- * @LastEditTime: 2020-12-28 00:00:33
+ * @LastEditTime: 2020-12-29 23:57:42
  * @LastEditors: Please set LastEditors
  * @Description: the test vue file
  * @FilePath: \vue\myTest\test.vue
@@ -16,7 +16,7 @@
     import vue from "./vue.js"
     new Vue({
         data() {
-            
+            lala: "lala"
         },
         methods: {
             
