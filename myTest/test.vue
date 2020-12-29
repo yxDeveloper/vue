@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-26 23:50:14
- * @LastEditTime: 2020-12-29 23:59:22
+ * @LastEditTime: 2020-12-30 00:00:18
  * @LastEditors: Please set LastEditors
  * @Description: the test vue file
  * @FilePath: \vue\myTest\test.vue
@@ -20,7 +20,9 @@
             Caret: "lala"
         },
         methods: {
-            
+            function () {
+                
+            }
         },
         created: {
             
