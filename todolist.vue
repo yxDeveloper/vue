@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2020-12-30 23:32:15
+ * @LastEditTime: 2020-12-30 23:33:46
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -21,10 +21,10 @@ let vm = new Vue({
         }
     },
     methods() {
-        setState() {
+        setState = () => {
             
         },
-        setData() {
+        setData = () => {
             
         }
     }
