@@ -1,14 +1,15 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2020-12-30 23:36:38
+ * @LastEditTime: 2020-12-30 23:41:06
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
 -->
 <template>
     <div id="app">
-        
+        <ul>
+        </ul>
     </div>
 </template>
 
@@ -17,7 +18,7 @@ let vm = new Vue({
     el: "#app",
     data() {
         return {
-            todo: state,
+            todo: [state,data],
             list: list
         }
     },
@@ -40,5 +41,10 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+    #app {
+        background-color: #00ffff;
+        ul {
+            float: left;
+        }
+    }
 </style>
