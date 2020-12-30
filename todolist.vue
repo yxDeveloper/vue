@@ -1,19 +1,20 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2020-12-30 23:35:46
+ * @LastEditTime: 2020-12-30 23:36:38
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
 -->
 <template>
-    <div>
-
+    <div id="app">
+        
     </div>
 </template>
 
 <script>
 let vm = new Vue({
+    el: "#app",
     data() {
         return {
             todo: state,
