@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-02 23:59:32
+ * @LastEditTime: 2021-01-03 00:00:56
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -25,7 +25,7 @@ let vm = new Vue({
     },
     created() {
         xhrApp()
-    }
+    },
     methods() {
         setState = () => {
             return reacte
@@ -34,7 +34,7 @@ let vm = new Vue({
             return Vue
         },
         xhrApp = () => {
-            
+            console.log(xhr)
         }
     }
 })
