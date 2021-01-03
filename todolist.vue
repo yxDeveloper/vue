@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-03 19:36:54
+ * @LastEditTime: 2021-01-03 19:37:33
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -11,9 +11,11 @@
         <div class="header">
 
         </div>
-        <ul>
+        <div class="list">
+            <ul>
             <!-- <li v-for="todo"></li> -->
-        </ul>
+            </ul>
+        </div>
         <div class="booder"></div>
     </div>
 </template>
