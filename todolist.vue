@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-04 23:59:47
+ * @LastEditTime: 2021-01-05 00:00:11
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -13,7 +13,8 @@
             <input type="butten">
         </div>
         <div class="list">
-            <ul v-for="todo">
+            <ul>
+            <!-- <ul v-for="todo"> -->
             <!-- <li v-for="todo"></li> -->
             </ul>
         </div>
