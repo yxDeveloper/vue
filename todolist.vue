@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-05 00:00:28
+ * @LastEditTime: 2021-01-06 23:27:12
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -63,6 +63,9 @@ export default {
         background-color: #00ffff;
         ul {
             float: left;
+            li {
+                float: left;
+            }
         }
     }
 </style>
