@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-06 23:27:12
+ * @LastEditTime: 2021-01-06 23:28:29
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -65,6 +65,9 @@ export default {
             float: left;
             li {
                 float: left;
+            }
+            a {
+                text-align: block;
             }
         }
     }
