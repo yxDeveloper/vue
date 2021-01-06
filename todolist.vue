@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-01-06 23:28:29
+ * @LastEditTime: 2021-01-06 23:28:54
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -69,6 +69,9 @@ export default {
             a {
                 text-align: block;
             }
+        }
+        div {
+            hanging-punctuation: 1;
         }
     }
 </style>
