@@ -35,6 +35,7 @@
     export default {
         
     }
+    console.log("Actually,I'm just bored!");
 </script>
 <style lang="scss" scoped>
     div {
