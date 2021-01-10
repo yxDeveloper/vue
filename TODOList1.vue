@@ -7,8 +7,7 @@
 <script>
 export default {
     setup () {
-        
-
+        this.setup
         return {}
     }
 }
