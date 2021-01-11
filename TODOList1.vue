@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-09 12:34:37
- * @LastEditTime: 2021-01-11 00:06:02
+ * @LastEditTime: 2021-01-12 00:43:20
  * @LastEditors: Please set LastEditors
  * @Description:  theSpiritOfResistanceToDisease
  * @FilePath: \vue\TODOList1.vue
@@ -43,7 +43,8 @@
         font-size: 11;
         font-family: "simfang";
         span {
-            clear: hotred;
+            clear: red;
+            overflow: hidden;
         }
     }
 </style>
