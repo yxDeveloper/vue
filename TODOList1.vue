@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-09 12:34:37
- * @LastEditTime: 2021-01-12 00:43:20
+ * @LastEditTime: 2021-01-12 23:38:45
  * @LastEditors: Please set LastEditors
  * @Description:  theSpiritOfResistanceToDisease
  * @FilePath: \vue\TODOList1.vue
@@ -45,6 +45,7 @@
         span {
             clear: red;
             overflow: hidden;
+            float: left;
         }
     }
 </style>
