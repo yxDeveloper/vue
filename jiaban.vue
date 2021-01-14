@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-13 23:41:54
- * @LastEditTime: 2021-01-13 23:42:14
+ * @LastEditTime: 2021-01-14 23:51:36
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\jiaban.vue
@@ -14,7 +14,7 @@
 
 <script>
     export default {
-        
+        pub
     }
 </script>
 
