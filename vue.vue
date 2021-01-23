@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-21 23:42:31
- * @LastEditTime: 2021-01-24 00:00:58
+ * @LastEditTime: 2021-01-24 00:01:32
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\vue.vue
@@ -23,5 +23,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+div {
+    column-rule: 0ch;
+}
 </style>
