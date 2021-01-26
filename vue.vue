@@ -16,7 +16,7 @@
 export default {
     setup () {
         // public static New = () => import('@/components/New.vue')
-        
+        div
         // return {}
     }
 }
