@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-21 23:42:31
- * @LastEditTime: 2021-01-25 23:45:27
+ * @LastEditTime: 2021-01-27 22:26:10
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\vue.vue
@@ -16,7 +16,6 @@
 export default {
     setup () {
         // public static New = () => import('@/components/New.vue')
-        div
         // return {}
     }
 }
