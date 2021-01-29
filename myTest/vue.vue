@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-01-28 22:08:07
+ * @LastEditTime: 2021-01-29 20:22:33
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -27,6 +27,9 @@ div {
     header {
         float: left;
         color: #000;
+    }
+    booters {
+        text: booters;
     }
 }
 </style>
