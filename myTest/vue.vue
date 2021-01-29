@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-01-29 20:23:43
+ * @LastEditTime: 2021-01-29 20:24:50
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -31,6 +31,7 @@ div {
     booters {
         text: booters;
         content: abs($number: 6);
+        system: abs($number: 4s);
     }
 }
 </style>
