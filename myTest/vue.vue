@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-01-29 20:26:58
+ * @LastEditTime: 2021-01-29 20:27:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -18,13 +18,13 @@
     export default {
         // { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Montserrat:600|Rufina:700' }
         // console.log("123");
-        define([
-            'require',
-            'dependency'
-        ], function(require, factory) {
-            'use strict';
+        // define([
+        //     'require',
+        //     'dependency'
+        // ], function(require, factory) {
+        //     'use strict';
             
-        });
+        // });
     }
 </script>
 
