@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-02-01 20:44:17
+ * @LastEditTime: 2021-02-01 20:44:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -10,8 +10,11 @@
     <div>
         <header></header>
         <booters></booters>
-        <from></from>
-        <input>
+        <from>
+            <input>
+            
+        </from>
+        
     </div>
 </template>
 
