@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-02-01 20:44:47
+ * @LastEditTime: 2021-02-01 20:45:15
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -11,7 +11,7 @@
         <header></header>
         <booters></booters>
         <from>
-            <input>
+            <input type="text">
             
         </from>
         
