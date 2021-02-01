@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-02-01 20:46:40
+ * @LastEditTime: 2021-02-01 20:46:54
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -14,6 +14,7 @@
             <input type="text">
             <input type="time">
             <input type="pusworld">
+            <input type="button">
         </from>
         
     </div>
