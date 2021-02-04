@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-02-04 23:14:53
+ * @LastEditTime: 2021-02-04 23:15:38
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -18,6 +18,7 @@
             <input type="text">
         </from>
         <p></p>
+        <div><span>杀机</span></div>
     </div>
 </template>
 
