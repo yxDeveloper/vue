@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-27 22:27:52
- * @LastEditTime: 2021-02-04 23:15:38
+ * @LastEditTime: 2021-02-04 23:18:25
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\myTest\vue.vue
@@ -40,6 +40,9 @@
 div {
     display: block;
     text-align: center;
+    div {
+        float: left;
+    }
     header {
         float: left;
         color: #000;
