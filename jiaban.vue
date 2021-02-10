@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-13 23:41:54
- * @LastEditTime: 2021-02-11 00:17:12
+ * @LastEditTime: 2021-02-11 00:17:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\jiaban.vue
@@ -10,9 +10,9 @@
     <div>
         <p></p>
         <head></head>
-        <body>
+        <booter>
             
-        </body>
+        </booter>
     </div>
 </template>
 
