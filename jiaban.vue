@@ -17,7 +17,7 @@
     export default {
         // public static void main string ages
         updated () {
-            ;
+            
         },
     }
 </script>
