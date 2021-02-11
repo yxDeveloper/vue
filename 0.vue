@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-17 23:58:40
- * @LastEditTime: 2021-02-11 15:50:40
+ * @LastEditTime: 2021-02-11 15:51:05
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\0.vue
@@ -11,6 +11,7 @@
     vue
     </div>
     define
+    div
 </template>
 
 <script>
