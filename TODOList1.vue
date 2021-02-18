@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-01-09 12:34:37
- * @LastEditTime: 2021-01-12 23:38:45
+ * @LastEditTime: 2021-02-18 22:52:56
  * @LastEditors: Please set LastEditors
  * @Description:  theSpiritOfResistanceToDisease
  * @FilePath: \vue\TODOList1.vue
@@ -13,6 +13,7 @@
         {{ theSpiritOfResistanceToDisease }}
         <span v-text="theSpiritOfResistanceToDiseaseHead"></span>
         <epidemicPreventionAndControl></epidemicPreventionAndControl>
+        <div></div>
     </div>
   </div>
 </template>
