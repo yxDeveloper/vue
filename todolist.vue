@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-02-20 23:53:10
+ * @LastEditTime: 2021-02-21 23:56:28
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -48,7 +48,11 @@ let vm = new Vue({
         },
         setState = () => {
             return reacte_state
+        },
+        getState = () => {
+            return reacte
         }
+
     }
 })
 export default {
