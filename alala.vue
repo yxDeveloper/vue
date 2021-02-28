@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-02-28 00:09:45
+ * @LastEditTime: 2021-02-28 23:45:01
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -12,7 +12,7 @@
     </div>
 </template>
 
-<script>
+<script lang="ts">
 import { reactive, toRefs } from '@vue/composition-api'
 
 export default {
