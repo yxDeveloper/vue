@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-02-28 23:45:01
+ * @LastEditTime: 2021-02-28 23:45:35
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -29,5 +29,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-
+    div {
+        text-align: center;
+    }
 </style>
