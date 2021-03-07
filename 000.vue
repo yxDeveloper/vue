@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-02 20:15:25
- * @LastEditTime: 2021-03-04 23:07:47
+ * @LastEditTime: 2021-03-07 22:41:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\000.vue
@@ -17,7 +17,7 @@
         for (const labrary in object) {
             if (Object.hasOwnProperty.call(object, labrary)) {
                 const element = object[labrary];
-                
+                laburary
             }
         }
     }
