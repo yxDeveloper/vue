@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-02 20:15:25
- * @LastEditTime: 2021-03-07 22:42:47
+ * @LastEditTime: 2021-03-09 22:39:52
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\000.vue
@@ -20,7 +20,7 @@
     //             laburary
     //         }
     //     }
-    // }
+    }
 </script>
 
 <style lang="scss" scoped>
