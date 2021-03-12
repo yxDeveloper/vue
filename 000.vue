@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-02 20:15:25
- * @LastEditTime: 2021-03-09 22:39:52
+ * @LastEditTime: 2021-03-12 22:11:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\000.vue
@@ -24,5 +24,7 @@
 </script>
 
 <style lang="scss" scoped>
-
+    div {
+        text-aline: center;
+    }
 </style>
