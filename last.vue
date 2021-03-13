@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-03-13 21:52:12
+ * @LastEditTime: 2021-03-13 21:52:32
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -9,7 +9,7 @@
 
 <template>
     <div>
-
+        <p></p>
     </div>
 </template>
 
