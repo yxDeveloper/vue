@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-03-13 21:50:45
+ * @LastEditTime: 2021-03-13 21:51:51
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -23,5 +23,7 @@
 </script>
 
 <style scoped>
-
+    div {
+        color: aqua;
+    }
 </style>
