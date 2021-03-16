@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-03-16 23:24:01
+ * @LastEditTime: 2021-03-16 23:24:27
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -29,7 +29,7 @@
         color: aqua;
         text-align: center;
         p {
-            block-size: ;
+            float: flex;
         }
     }
 </style>
