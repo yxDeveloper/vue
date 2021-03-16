@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-03-15 21:29:35
+ * @LastEditTime: 2021-03-16 23:24:01
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -24,9 +24,12 @@
     // }
 </script>
 
-<style scoped>
+<style scoped lang = "scss">
     div {
         color: aqua;
         text-align: center;
+        p {
+            block-size: ;
+        }
     }
 </style>
