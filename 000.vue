@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-02 20:15:25
- * @LastEditTime: 2021-03-19 22:16:39
+ * @LastEditTime: 2021-03-19 22:17:03
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\000.vue
@@ -26,6 +26,6 @@
 <style lang="scss" scoped>
     div {
         text-aline: center;
-        box-size: 15px;
+        box-size: 150px;
     }
 </style>
