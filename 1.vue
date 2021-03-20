@@ -26,6 +26,11 @@
 //         return {}
 //     }
 // })
+    data() {
+                return {
+                    key: value
+                }
+            }
 </script>
 
 <style scoped lang="scss">
