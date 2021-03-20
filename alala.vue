@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-02-28 23:45:35
+ * @LastEditTime: 2021-03-20 21:27:49
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -13,19 +13,19 @@
 </template>
 
 <script lang="ts">
-import { reactive, toRefs } from '@vue/composition-api'
+// import { reactive, toRefs } from '@vue/composition-api'
 
-export default {
-    setup () {
-        const state = reactive({
-            count: 0,
-        })
+// export default {
+//     setup () {
+//         const state = reactive({
+//             count: 0,
+//         })
     
-        return {
-            ...toRefs(state),
-        }
-    }
-}
+//         return {
+//             ...toRefs(state),
+//         }
+//     }
+// }
 </script>
 
 <style lang="scss" scoped>
