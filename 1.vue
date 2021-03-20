@@ -1,14 +1,16 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-22 00:00:32
- * @LastEditTime: 2021-02-28 00:09:03
+ * @LastEditTime: 2021-03-20 21:26:12
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\1.vue
 -->
 <template>
     <div>
-
+        <ul v-for="item in items" :key="item.id">
+            {{ item }}
+        </ul>
     </div>
 </template>
 
