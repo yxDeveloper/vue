@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-22 00:00:32
- * @LastEditTime: 2021-03-22 21:46:48
+ * @LastEditTime: 2021-03-22 21:47:10
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\1.vue
@@ -26,13 +26,13 @@
 //         return {}
 //     }
 // })
-import vue for "./myTest/vue.js"
-    data() {
-                return {
-                    key: value,
-                    name: vue
-                }
-            }
+// import vue for "./myTest/vue.js"
+//     data() {
+//                 return {
+//                     key: value,
+//                     name: vue
+//                 }
+//             }
 </script>
 
 <style scoped lang="scss">
