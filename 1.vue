@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-22 00:00:32
- * @LastEditTime: 2021-03-20 21:26:12
+ * @LastEditTime: 2021-03-22 21:44:19
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\1.vue
@@ -28,7 +28,8 @@
 // })
     data() {
                 return {
-                    key: value
+                    key: value,
+                    name: vue
                 }
             }
 </script>
