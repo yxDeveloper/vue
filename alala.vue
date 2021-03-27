@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-03-24 21:50:02
+ * @LastEditTime: 2021-03-27 21:39:18
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -32,5 +32,6 @@
     div {
         text-align: center;
         overflow: hidden;
+        display: block;
     }
 </style>
