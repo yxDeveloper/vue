@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-03-27 21:39:48
+ * @LastEditTime: 2021-03-28 21:03:43
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -33,6 +33,6 @@
         text-align: center;
         overflow: hidden;
         display: inline-block;
-        float: left;
+        float: none;
     }
 </style>
