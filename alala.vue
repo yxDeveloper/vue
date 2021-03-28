@@ -33,5 +33,6 @@
         text-align: center;
         overflow: hidden;
         display: inline-block;
+        float: left;
     }
 </style>
