@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-02-28 00:09:36
- * @LastEditTime: 2021-03-28 21:04:41
+ * @LastEditTime: 2021-03-28 21:05:23
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \vue\alala.vue
@@ -35,5 +35,6 @@
         display: inline-block;
         float: none;
         transform: rotateZ();
+        translate: floor($number: 0);
     }
 </style>
