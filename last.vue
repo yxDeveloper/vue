@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-03-30 21:02:09
+ * @LastEditTime: 2021-04-01 21:00:02
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -18,15 +18,7 @@
 
     // @Component
     // export default class last extends Vue {
-        let fast = () => {
-            
-        }
-        let api = () => {
-            
-        }
-        let pash = () => {
-            
-        }
+        customElements
     // }
 </script>
 
