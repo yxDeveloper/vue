@@ -29,6 +29,7 @@
         p {
             float: flex;
             text-indent: 0cm;
+            display: block;
         }
     }
 </style>
