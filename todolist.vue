@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-04-05 21:58:15
+ * @LastEditTime: 2021-04-06 21:43:06
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -63,8 +63,10 @@ export default {
     setup () {
         state() {
             
-        }
+        },
+    setState () {
 
+    } 
         return {}
     }
 }
