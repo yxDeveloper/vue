@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-04-09 21:49:34
+ * @LastEditTime: 2021-04-09 21:50:14
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -16,7 +16,7 @@
 
 <script lang="ts">
     // import { Component, Vue } from 'vue-property-decorator';
-    import { Component, Vue } from 'vue-property-decorator'
+    // import { Component, Vue } from 'vue-property-decorator'
     // @Component
     // export default class last extends Vue {
         customElements
