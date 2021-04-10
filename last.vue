@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-04-09 21:50:14
+ * @LastEditTime: 2021-04-10 23:34:57
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -26,6 +26,7 @@
 <style scoped lang = "scss">
     div {
         color: aqua;
+        background-color: pink;
         text-align: center;
         p {
             float: flex;
