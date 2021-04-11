@@ -27,6 +27,7 @@
     div {
         color: aqua;
         background-color: pink;
+        background: url('lalaa');
         text-align: center;
         p {
             float: flex;
