@@ -72,6 +72,9 @@ export default {
     setup () {
         
     }
+    setState(
+        
+    )
 }
 </script>
 
