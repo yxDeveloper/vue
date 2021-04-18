@@ -75,9 +75,12 @@ export default {
     state () {
 
     },
-    setState(
+    setState () {
         
-    )
+    },
+    setData () {
+
+    }
 }
 </script>
 
