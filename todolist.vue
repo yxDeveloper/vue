@@ -71,7 +71,10 @@ export default {
     // } 
     setup () {
         
-    }
+    },
+    state () {
+
+    },
     setState(
         
     )
