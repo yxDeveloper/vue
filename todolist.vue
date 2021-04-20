@@ -41,7 +41,7 @@ let vm = new Vue({
         // xhrApp() {
 
         // }
-        xhr
+        // xhr
     },
     methods() {
         setState = () => {
