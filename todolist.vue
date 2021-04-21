@@ -35,7 +35,8 @@ let vm = new Vue({
         return {
             todo: [state,data],
             list: list,
-            name: bobo
+            name: bobo,
+            age: 12,
         }
     },
     created() {
