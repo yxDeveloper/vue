@@ -37,6 +37,7 @@ let vm = new Vue({
             list: list,
             name: bobo,
             age: 12,
+            sex: true
         }
     },
     created() {
