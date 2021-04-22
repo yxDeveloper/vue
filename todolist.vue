@@ -16,8 +16,8 @@
             <ul>
             <!-- <li v-for="todo"></li> -->
             <li></li>
-            <li></li>
-            <li></li>
+            <!-- <li></li>
+            <li></li> -->
             </ul>
         </div>
         <div class="booder">
