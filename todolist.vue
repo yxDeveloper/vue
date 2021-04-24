@@ -10,6 +10,7 @@
     <div id="app">
         <div class="header">
             <input type="text">
+            <input type="time">
             <input type="button" value="1">
             <input type="butten">
         </div>
