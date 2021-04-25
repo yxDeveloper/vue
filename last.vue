@@ -32,6 +32,7 @@
             float: flex;
             text-indent: 0cm;
             display: block;
+            template: all 5;
         }
     }
 </style>
