@@ -48,7 +48,7 @@ div {
         color: #000;
     }
     booters {
-        text: booters;
+        text-align: center;
         content: abs($number: 6);
         system: abs($number: 4s);
     }
