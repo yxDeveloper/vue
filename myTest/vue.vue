@@ -46,7 +46,7 @@ div {
     header {
         float: left;
         color: #000;
-        font-color: red;
+        font-size: 12;
     }
     booters {
         text-align: center;
