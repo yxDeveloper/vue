@@ -50,6 +50,7 @@ div {
     }
     booters {
         text-align: center;
+        font: weiruanyahei;
         content: abs($number: 6);
         system: abs($number: 4s);
     }
