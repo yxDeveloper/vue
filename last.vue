@@ -20,6 +20,7 @@
     // @Component
     // export default class last extends Vue {
         // type: boolean;
+        var xx: boolean;
     // }
 </script>
 
