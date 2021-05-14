@@ -19,7 +19,7 @@
     // import { Component, Vue } from 'vue-property-decorator'
     // @Component
     // export default class last extends Vue {
-        customElements
+        type: boolean;
     // }
 </script>
 
