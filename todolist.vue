@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-04-08 21:47:20
+ * @LastEditTime: 2021-05-19 20:13:29
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -42,7 +42,8 @@ let vm = new Vue({
             list: list,
             name: bobo,
             age: 12,
-            sex: true
+            sex: true,
+            isTodo: true
         }
     },
     created() {
