@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-04-10 23:34:57
+ * @LastEditTime: 2021-07-03 23:37:35
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -23,6 +23,7 @@
     // export default class last extends Vue {
         // type: boolean;
         var xx: boolean;
+        xx = true;
     // }
 </script>
 
