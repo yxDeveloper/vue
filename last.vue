@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-07-03 23:39:22
+ * @LastEditTime: 2021-07-03 23:39:51
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -40,6 +40,7 @@
             /* template: all 5; */
             div {
                 background: red;
+                color: #000;
             }
         }
     }
