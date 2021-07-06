@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-07-07 00:24:47
+ * @LastEditTime: 2021-07-07 00:26:31
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -49,5 +49,6 @@
         }
         float: left;
         text-align: left;
+        font: 1em sans-serif;
     }
 </style>
