@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-07-07 00:21:25
+ * @LastEditTime: 2021-07-07 00:22:41
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -28,6 +28,7 @@
         var xx: boolean;
         xx = true;
         let yy: number = 22;
+        let xy: string = 'peaple';
     // }
 </script>
 
