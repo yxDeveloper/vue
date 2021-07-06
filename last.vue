@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2021-03-13 21:47:31
- * @LastEditTime: 2021-07-07 00:22:41
+ * @LastEditTime: 2021-07-07 00:23:56
  * @LastEditors: Please set LastEditors
  * @Description: last
  * @FilePath: \vue\last.vue
@@ -47,5 +47,6 @@
                 color: #000;
             }
         }
+        float: left;
     }
 </style>
