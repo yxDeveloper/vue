@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-06-02 22:22:20
+ * @LastEditTime: 2021-07-07 23:11:28
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -99,6 +99,9 @@ export default {
     },
     todoList () {
         this.todoList
+    }，
+    getUp () {
+        
     }
 }
 </script>
