@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-07-07 23:12:21
+ * @LastEditTime: 2021-07-07 23:15:49
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -118,6 +118,7 @@ export default {
             a {
                 text-align: block;
                 color: red;
+                background-color:pink;
             }
         }
         div {
