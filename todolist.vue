@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-04 23:22:41
+ * @LastEditTime: 2021-08-04 23:23:19
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -92,8 +92,9 @@ export default {
         let trup = 11;
         return trup;
     },
-    setState () {
-        
+    setState (num) {
+        trup = num;
+        return trup;
     },
     setData () {
 
