@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-04 23:23:19
+ * @LastEditTime: 2021-08-04 23:24:39
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -97,7 +97,7 @@ export default {
         return trup;
     },
     setData () {
-
+        console.log('say good buy!')
     },
     todoList () {
         this.todoList
