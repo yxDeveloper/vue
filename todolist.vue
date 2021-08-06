@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-06 14:43:00
+ * @LastEditTime: 2021-08-06 14:44:38
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -108,8 +108,8 @@ export default {
         const nomo = 100
         let teacher2 = "mama";
         return teather + teacher2
-    }
-    function lala(x) {
+    },
+    lala (x) {
         return x + 1;
     }
 }
