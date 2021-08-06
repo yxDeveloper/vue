@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-04 23:24:58
+ * @LastEditTime: 2021-08-06 14:40:10
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -104,6 +104,9 @@ export default {
     },
     getUp () {
         console.log(1+1)
+        let teather = 'baba';
+        const nomo = 100
+        let teacher2 = "mama";
     }
 }
 </script>
