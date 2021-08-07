@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-07 20:08:45
+ * @LastEditTime: 2021-08-07 20:09:37
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -110,9 +110,11 @@ export default {
         return teather + teacher2
     },
     lala (x) {
+        let masters = 1;
         return x + 1;
         console.log('lala si yq');
-        console.log('masters')
+        console.log('masters');
+        return masters;
     }
 }
 </script>
