@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-07 20:07:57
+ * @LastEditTime: 2021-08-07 20:08:45
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -112,6 +112,7 @@ export default {
     lala (x) {
         return x + 1;
         console.log('lala si yq');
+        console.log('masters')
     }
 }
 </script>
