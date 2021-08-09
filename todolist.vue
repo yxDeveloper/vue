@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-09 22:42:54
+ * @LastEditTime: 2021-08-09 22:44:10
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -139,5 +139,6 @@ export default {
         }
         appearance: none;
         display: block;
+        background-color: hotpink;
     }
 </style>;
