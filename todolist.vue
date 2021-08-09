@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-09 22:44:10
+ * @LastEditTime: 2021-08-09 22:45:03
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -98,6 +98,9 @@ export default {
     },
     setData () {
         console.log('say good buy!')
+        if(true) {
+            console.log('shiyuzhu')
+        }
     },
     todoList () {
         this.todoList
