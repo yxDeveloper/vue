@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-10 21:21:40
+ * @LastEditTime: 2021-08-10 21:22:11
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -96,7 +96,7 @@ export default {
         let trup = 0;
         let lala = sanzhi;
         if(trup < 3) {
-            
+            lala = gongwuyuan;
             trup++
         }
         return trup;
