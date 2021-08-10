@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-10 21:22:11
+ * @LastEditTime: 2021-08-10 21:22:35
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -100,6 +100,7 @@ export default {
             trup++
         }
         return trup;
+        console.log('我不如他！')
     },
     setData () {
         console.log('say good buy!')
