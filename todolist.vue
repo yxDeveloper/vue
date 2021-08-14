@@ -91,6 +91,7 @@ export default {
     state () {
         let trup = 11;
         return trup;
+        console.log('lalalala')
     },
     setState (num) {
         let trup = 0;
