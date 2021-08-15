@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-08-10 21:22:35
+ * @LastEditTime: 2021-08-15 21:39:40
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -102,6 +102,7 @@ export default {
         }
         return trup;
         console.log('我不如他！')
+        console.log('pinming')
     },
     setData () {
         console.log('say good buy!')
