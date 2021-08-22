@@ -120,7 +120,7 @@ export default {
         let teather = 'baba';
         const nomo = 100;
         let teacher2 = "mama";
-        return teather + teacher2
+        return teather + teacher
     },
     lala (x) {
         let masters = 1;
@@ -128,6 +128,8 @@ export default {
         console.log('lala si yq');
         console.log('masters');
         return masters;
+        console.log('wancheng')；
+        console.log('mingtiankaishi')
     }
 }
 
