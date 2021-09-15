@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-12-30 23:24:19
- * @LastEditTime: 2021-09-08 21:03:54
+ * @LastEditTime: 2021-09-15 23:40:06
  * @LastEditors: Please set LastEditors
  * @Description: todolist for Vue
  * @FilePath: \vue\myTest\todolist.vue
@@ -128,8 +128,8 @@ export default {
         console.log('lala si yq');
         console.log('masters');
         return masters;
-        console.log('wancheng')；
-        console.log('mingtiankaishi')
+        console.log('wancheng');
+        console.log('mingtiankaishi');
     }
 }
 
