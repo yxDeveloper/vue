@@ -131,6 +131,7 @@ export default {
         console.log('wancheng');
         console.log('mingtiankaishi');
         console.log('mingtiankaishi');
+        console.log('jintiankaishi');
 
     }
 }
